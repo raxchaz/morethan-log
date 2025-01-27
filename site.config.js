@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "라현지 기획 노트",
+    title: "🤔 라현지 기획 노트",
     description: "welcome to my channel!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
