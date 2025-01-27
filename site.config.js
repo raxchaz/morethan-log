@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "rachaz log",
+    description: "welcome to my channel!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
