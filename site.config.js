@@ -6,13 +6,13 @@ const CONFIG = {
     role: "IT Service Planner",
     bio: "-",
     email: "rachaz@naver.com",
-    linkedin: "https://www.linkedin.com/in/raxchaz/",
-    github: "https://github.com/raxchaz",
+    linkedin: "raxchaz",
+    github: "raxchaz",
     instagram: "",
   },
   projects: [
     {
-      name: `rachaz log`,
+      name: `라현지 기획 노트`,
       href: "https://github.com/raxchaz",
     },
   ],
