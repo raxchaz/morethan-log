@@ -6,19 +6,19 @@ const CONFIG = {
     role: "IT Service Planner",
     bio: "-",
     email: "rachaz@naver.com",
-    linkedin: "https://velog.io/@raxchaz",
+    linkedin: "https://www.linkedin.com/in/raxchaz/",
     github: "https://github.com/raxchaz",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `rachaz log`,
+      href: "https://github.com/raxchaz",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "rachaz log",
+    title: "rachaz-log",
     description: "welcome to my channel!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
