@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `라현지 기획 노트`,
+      name: `🤔 라현지 기획 노트`,
       href: "https://github.com/raxchaz",
     },
   ],
