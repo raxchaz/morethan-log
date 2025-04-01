@@ -12,13 +12,13 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `🤔 라현지 기획 노트`,
+      name: `Planning notes from Hyunji Ra`,
       href: "https://github.com/raxchaz",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "🤔 라현지 기획 노트",
+    title: "Planning notes from Hyunji Ra",
     description: "welcome to my channel!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
